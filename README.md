@@ -53,6 +53,7 @@
         - work: to know someone who work on waht company
 
 - Info about Entity
+-
 ![](https://i.imgur.com/7d9RF2M.png)
 ![](https://i.imgur.com/hU8dkXZ.png)
 ![](https://i.imgur.com/9gF5FEH.png)
@@ -60,4 +61,5 @@
 ![](https://i.imgur.com/2iLqWMN.png)
 --------
 - Info about Relation
+-
 ![](https://i.imgur.com/8qmhBNT.png)
