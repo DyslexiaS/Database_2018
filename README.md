@@ -14,14 +14,6 @@
         - Result: query result will print in it
         ![](https://i.imgur.com/mPhbmo2.png)
 -----
-
-
--
--
--
--
--
--
 ## 資料庫設計
 - ER diagram
     ![](https://i.imgur.com/2r4kuFK.png)
@@ -30,9 +22,9 @@
 - 第三正規化後的 Relation Schema
     ![](https://i.imgur.com/9ilIccK.png)
 
-- 
+-
 - 每個 table, attribute, relationship 的意義和關係
-    #### **purpose：  The databases can know any information of a player, include her/his performance(what event, songs), and something about her/his band or company** 
+    #### **purpose：  The databases can know any information of a player, include her/his performance(what event, songs), and something about her/his band or company**
     - every entity have ID to be a primary key
     - Entity:
         - player: has his/her information like name, gender, age, role
@@ -53,7 +45,7 @@
             - name: event's name
             - place: can know where the event taking place in
             - time: can know when holding the event and know which year having the most activities
-        
+
     - Relation:
         - perform: to know someone sing what songs in the event
         - leader: to know who is a leader in a band
@@ -69,7 +61,3 @@
 --------
 - Info about Relation
 ![](https://i.imgur.com/8qmhBNT.png)
-
-        
-
-# Database_2018
